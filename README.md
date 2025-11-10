@@ -1,1 +1,4 @@
-# mtm6302-s24-interactive-gallery-chen1054
+#Interactive Gallery
+> Student Name: Xinyan Chen
+>
+> Student Number: 041165364
